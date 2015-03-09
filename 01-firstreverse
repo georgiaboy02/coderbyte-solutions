@@ -1,0 +1,15 @@
+var hello = "hello"
+function FirstReverse(str) { 
+	var newStr = str.split("");
+	newStr = newStr.reverse();
+	newStr = newStr.join("");
+  				
+  // code goes here  
+  return newStr; 
+         
+}
+   
+// keep this function call here 
+// to see how to enter arguments in JavaScript scroll down
+
+FirstReverse(readline());           
