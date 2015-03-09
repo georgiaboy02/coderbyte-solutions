@@ -6,8 +6,5 @@ for (var i = num; i > 0; i--) { //for loop that will go through each number and 
   return total; //returns the total
          
 }
-   
-// keep this function call here 
-// to see how to enter arguments in JavaScript scroll down
 
 FirstFactorial(readline());
