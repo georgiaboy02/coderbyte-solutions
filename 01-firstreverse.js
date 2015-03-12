@@ -7,4 +7,4 @@ function FirstReverse(str) {
          
 }
 
-FirstReverse(readline());           
+FirstReverse(readline());
